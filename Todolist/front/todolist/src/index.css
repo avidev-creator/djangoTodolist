@@ -1,0 +1,8 @@
+.BODY{
+    display: block;
+    width: 99%;
+    height: 100%;
+    padding: 2px 2px;
+    background-size: cover;
+
+}
